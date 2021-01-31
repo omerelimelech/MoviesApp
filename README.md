@@ -11,6 +11,7 @@ The App is storyboard based, MVP (Model - View - Presenter) Architectured.
 ```jsx
 cd ~/MoviesApp/
 pod install
+open MoviesApp.xcworkspace
 ```
 
 # Disclaimers
