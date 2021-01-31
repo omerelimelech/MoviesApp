@@ -18,7 +18,7 @@ open MoviesApp.xcworkspace
 
 - API Key is set as a param in each HTTP request, not encrypted.
 - UPCarouselFlowLayout is an Open source library I modified for this project -> https://github.com/ink-spot/UPCarouselFlowLayout
-- UI Design inspiration is from Pinterests → [https://www.pinterest.com/pin/295830269281441067/](https://www.pinterest.com/pin/295830269281441067/), I hope it fits the requirements
+- UI Design inspiration is from Pinterests → [https://www.pinterest.com/pin/295830269281441067/](https://www.pinterest.com/pin/295830269281441067/)
 - the App does not support dark mode. please run in light mode
 
 # Libraries
