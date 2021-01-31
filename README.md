@@ -8,7 +8,7 @@ The App is storyboard based, MVP (Model - View - Presenter) Architectured.
 
 - API Key is set as a param in each HTTP request, not encrypted.
 - UPCarouselFlowLayout is an Open source library I modified for this project
-- UI Design inspiration is from Pinterests → [https://www.pinterest.com/pin/295830269281441067/](https://www.pinterest.com/pin/295830269281441067/), I hope it fits the requirements
+- UI Design inspiration is from Pinterests → [https://www.pinterest.com/pin/295830269281441067/](https://www.pinterest.com/pin/295830269281441067/)
 
 # Libraries
 
