@@ -6,7 +6,7 @@ The App is storyboard based, MVP (Model - View - Presenter) Architectured.
 
 # Running the project
 
-> Pull the project
+> Clone the project
 
 ```jsx
 cd ~/MoviesApp/
